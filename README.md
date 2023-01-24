@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **anything and everything**
 
-- 📫 How to reach me **aashigupta779@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/aashi-gupta-2a2387221/**
 
 
 
