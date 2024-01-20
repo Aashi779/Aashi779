@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashi779&label=Profile%20views&color=0e75b6&style=flat" alt="aashi779" /> </p>
 
-- 🌱 I’m currently learning **anything and everything**
-
-- 📫 How to reach me **https://www.linkedin.com/in/aashi-gupta-2a2387221/**
-
 [![Ash3070's GitHub | Stats](https://stats.quine.sh/Ash3070/github?theme=light)](https://quine.sh)
 
 
