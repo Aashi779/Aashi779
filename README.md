@@ -4,7 +4,7 @@
 <h1 align="center">Hey!👋, I'm Aashi Gupta</h1>
 <h3 align="center">A keen observer and a passionate learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashi779&label=Profile%20views&color=0e75b6&style=flat" alt="aashi779" /> </p>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashi779&label=Profile%20views&color=0e75b6&style=flat" alt="aashi779" /> </p>
 
 [![Ash3070's GitHub | Stats](https://stats.quine.sh/Ash3070/github?theme=light)](https://quine.sh)
 
@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashi779&show_icons=true&locale=en" alt="aashi779" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashi779&" alt="aashi779" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashi779&" alt="aashi779" /></p> -->
 
 
 <!--- 🔭 I’m currently working on ...
