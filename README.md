@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Aashi%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Morgan%20Stanley&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aashi%20Gupta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Morgan%20Stanley&descAlignY=58&descSize=20&width=4000)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aashi779&color=blueviolet&style=for-the-badge&label=Profile+Views" />
@@ -103,5 +104,4 @@ Built a VC exit predictor using Gradient Boosting Regressor — **90% accuracy**
 📄 **ChatterBot — An AI Conversational Entity** — Presented at OCOCOSDA'23, published in **IEEE**. (Dec 2023)
 
 ---
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&width=4000)
