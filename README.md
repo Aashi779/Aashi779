@@ -1,12 +1,20 @@
-# Hi, I'm Aashi Gupta 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Aashi%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Morgan%20Stanley&descAlignY=55&descSize=18)
 
-Software engineer at Morgan Stanley. I've built ML systems, backend APIs, and event-driven pipelines across fintech, hospitality, and AI — and I'm always looking for hard problems to work on next.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aashi779&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+</p>
 
-📍 Mumbai, India &nbsp;|&nbsp; 💼 Technology Analyst · Morgan Stanley &nbsp;|&nbsp; 📄 IEEE Published
+<p align="center">
+  <a href="https://linkedin.com/in/aashi-gupta-2a2387221"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aashigupta779@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Aashi779"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 ## About me
+
+Software engineer at Morgan Stanley. I've built ML systems, backend APIs, and event-driven pipelines across fintech, hospitality, and AI — and I'm always looking for hard problems to work on next.
 
 I'm a CS-AI graduate from IGDTUW (CGPA 8.90) who's spent the last few years doing things that actually ship. I've built Kafka pipelines at OYO that cut DB load by 45%, boosted LLM accuracy at a startup using Corrective RAG and LoRA fine-tuning, done AI research remotely with Carnegie Mellon, and presented papers at COMSIA and IEEE OCOCOSDA.
 
@@ -16,88 +24,105 @@ Right now I'm a Technology Analyst at Morgan Stanley, modernizing legacy financi
 
 ## Experience
 
-**Technology Analyst — Morgan Stanley** &nbsp;·&nbsp; Aug 2025 – Present &nbsp;·&nbsp; Mumbai
+**Technology Analyst — Morgan Stanley** · Aug 2025 – Present · Mumbai
 
 Modernising legacy platforms: Spring Boot/Gradle migration, SOAP→REST, MQ→Kafka, Angular UI upgrades, Docker containerisation, Zookeeper service discovery, and Bitbucket→GitHub CI/CD migration.
 
-`Spring Boot` `Kafka` `Docker` `CI/CD` `Angular`
-
 ---
 
-**Software Engineering Intern — OYO** &nbsp;·&nbsp; Jan – Jul 2025 &nbsp;·&nbsp; Gurugram
+**Software Engineering Intern — OYO** · Jan – Jul 2025 · Gurugram
 
 Led APS system deprecation reducing infrastructure costs by **35%**. Built 10+ REST APIs with Spring Boot + PostgreSQL + JWT. Architected a Kafka event-driven pipeline (+20% throughput). Redis caching + SQL tuning cut DB load by **45%**. Deployed via Kubernetes, monitored with Grafana and APM.
 
-`Spring Boot` `PostgreSQL` `Kafka` `Redis` `Kubernetes` · **-45% DB load · -35% infra cost · +20% throughput**
+---
+
+**AI Engineering Intern — UnifyApps** · May – Jul 2024 · Gurugram
+
+Boosted a banking LLM's accuracy by **18%** using Corrective RAG (T5 + Llama-2-7B). Fine-tuned Llama-3-8B with Flash Attention 2 + LoRA — **98% accuracy**. Benchmarked 12 model configs across Finance Alpaca and jailbreak datasets.
 
 ---
 
-**AI Engineering Intern — UnifyApps** &nbsp;·&nbsp; May – Jul 2024 &nbsp;·&nbsp; Gurugram
+**AI Research Intern — Carnegie Mellon University** · Feb – Apr 2024 · Remote
 
-Boosted a banking LLM's accuracy by **18%** using Corrective RAG (quantized T5 + Llama-2-7B). Fine-tuned Llama-3-8B with Flash Attention 2 + LoRA for query refinement — **98% accuracy**. Benchmarked 12 model configs across Finance Alpaca and jailbreak datasets.
-
-`RAG` `LoRA` `Llama` `Hugging Face` · **+18% LLM accuracy · 98% query accuracy**
+Improved data analysis by 15% visualizing 2D slices from 3D Cryo-ET tomogram data. Used PyTorch and IMOD for image processing and modeling.
 
 ---
 
-**AI Research Intern — Carnegie Mellon University** &nbsp;·&nbsp; Feb – Apr 2024 &nbsp;·&nbsp; Remote
+**Data Analyst Intern — Varidus** · Sep 2023 – Feb 2024 · Singapore (Remote)
 
-Improved data analysis by 15% by visualizing 2D slices from 3D Cryo-ET tomogram data. Used PyTorch and IMOD for image processing and modeling.
-
-`PyTorch` `Cryo-ET` `Image Processing`
-
----
-
-**Data Analyst Intern — Varidus** &nbsp;·&nbsp; Sep 2023 – Feb 2024 &nbsp;·&nbsp; Singapore (Remote)
-
-Aggregated data for 150+ companies from PitchBook, Tracxn, and Crunchbase. Built a VC exit predictor using Gradient Boosting Regressor — **90% accuracy**.
-
-`Python` `Power BI` `Scikit-learn` · **90% exit prediction accuracy**
+Built a VC exit predictor using Gradient Boosting Regressor — **90% accuracy** on 150+ company dataset.
 
 ---
 
 ## Projects
 
 ### [TaskMaster-SLM](https://github.com/Aashi779/Efficient-multitasking-with-SLMs)
-Fine-tuned Phi-3 for three simultaneous tasks: reasoning (75%), math (91.51%), web summarization (80.9s processing time). Integrated Google Search API for top-5 result retrieval. Used LoRA + CoT prompting to cut compute by 40%. **Presented at COMSIA'25.**
-
-`Phi-3` `LoRA` `CoT` · **-40% compute · COMSIA'25**
-
----
+Fine-tuned Phi-3 for three simultaneous tasks: reasoning (75%), math (91.51%), web summarization (80.9s). LoRA + CoT prompting cut compute by 40%. **Presented at COMSIA'25.**
 
 ### [HomePriceHub](https://github.com/Aashi779/HomePriceHub_ML)
-End-to-end real estate price prediction with **84% accuracy** using linear regression. Full-stack: Python Flask backend with HTML/CSS/JS frontend. Feature engineering, outlier detection, dimensionality reduction, K-fold CV.
-
-`Flask` `Python` `Scikit-learn` · **84% accuracy**
-
----
+End-to-end real estate price prediction — **84% accuracy**. Full-stack: Python Flask + HTML/CSS/JS. Feature engineering, outlier detection, K-fold CV.
 
 ### [FluoLingo — Language Learning Bot](https://github.com/Aashi779/LanguageLearningBot)
-Telegram bot for multilingual learning — NLP-powered vocabulary drills, conversation practice, and real-time feedback across multiple languages.
-
-`Python` `NLP` `Telegram API`
+Telegram bot for multilingual learning with NLP-powered vocabulary drills and real-time feedback.
 
 ---
 
 ## Tech stack
 
-**Languages** &nbsp; `Python` `C++` `Java` `SQL`
+**Languages**
 
-**Backend & infra** &nbsp; `Spring Boot` `Kafka` `PostgreSQL` `Redis` `Docker` `Kubernetes` `REST APIs` `JWT`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**ML / AI** &nbsp; `PyTorch` `Hugging Face` `LangChain` `LoRA` `RAG` `Llama` `Phi-3`
+**Backend & infra**
 
-**Tools** &nbsp; `Git & GitHub` `Linux` `Postman` `Grafana` `Jupyter` `Google Colab` `VS Code`
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**CS fundamentals** &nbsp; `OOP` `Data Structures & Algorithms` `OS` `DBMS` `Software Design`
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aashi779&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashi779&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aashi779&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aashi779&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## Awards & recognition
 
-🏅 **Reliance Foundation Scholar '22** — Selected among 60 undergraduates across India for a ₹4 lakh scholarship based on academic excellence.
+🏅 **Reliance Foundation Scholar '22** — Selected among 60 undergraduates across India for a ₹4 lakh scholarship.
 
-🏅 **Flipkart Runway Scholar '23** — Top 170 out of 17,000 participants in a DSA and CS fundamentals competition.
+🏅 **Flipkart Runway Scholar '23** — Top 170 out of 17,000 participants in DSA and CS fundamentals.
 
 ---
 
@@ -109,9 +134,4 @@ Telegram bot for multilingual learning — NLP-powered vocabulary drills, conver
 
 ---
 
-## Let's connect
-
-Always happy to talk about backend systems, ML engineering, or interesting problems.
-
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
-- 📬 [aashigupta779@gmail.com](mailto:aashigupta779@gmail.com)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer)
