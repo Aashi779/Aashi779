@@ -54,19 +54,6 @@ Built a VC exit predictor using Gradient Boosting Regressor — **90% accuracy**
 
 ---
 
-## Projects
-
-### [TaskMaster-SLM](https://github.com/Aashi779/Efficient-multitasking-with-SLMs)
-Fine-tuned Phi-3 for three simultaneous tasks: reasoning (75%), math (91.51%), web summarization (80.9s). LoRA + CoT prompting cut compute by 40%. **Presented at COMSIA'25.**
-
-### [HomePriceHub](https://github.com/Aashi779/HomePriceHub_ML)
-End-to-end real estate price prediction — **84% accuracy**. Full-stack: Python Flask + HTML/CSS/JS. Feature engineering, outlier detection, K-fold CV.
-
-### [FluoLingo — Language Learning Bot](https://github.com/Aashi779/LanguageLearningBot)
-Telegram bot for multilingual learning with NLP-powered vocabulary drills and real-time feedback.
-
----
-
 ## Tech stack
 
 **Languages**
@@ -98,23 +85,6 @@ Telegram bot for multilingual learning with NLP-powered vocabulary drills and re
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aashi779&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashi779&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aashi779&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aashi779&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
